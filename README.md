@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Osmankaratay
 - 👀 I’m interested in 
--     #Programs what makes people life make better
--     and make some of this
+-     #Programs what makes people life make better and make some of this
 -     #Play some video games and make some of them
 -     
 - 🌱 I’m currently learning 
