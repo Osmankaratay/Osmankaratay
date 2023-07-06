@@ -1,17 +1,21 @@
 - 👋 Hi, I’m @Osmankaratay
 - 👀 I’m interested in 
--     #Programs what makes people life make better and make some of this
--     #Play some video games and make some of them
+-     #Programs what makes people life make better and easy
+-     #Play some video games and make them
 -     
 - 🌱 I’m currently learning 
 -     //C
 -     //C++
 -     #Python
+-     //C#
+-     Unity
+-     Unreal Engine
 -     
 - 💞️ I’m looking to collaborate on ...
+-     Game Devolopment
 - 📫 How to reach me
--      Gmail: osmankaratay.ok@gmail.com
--      Lınked: 
+-      Gmail: osman.krty.lc@gmail.com
+-      Lınked: https://www.linkedin.com/in/osman-karatay-1a7562113/
 -      
 
 <!---
