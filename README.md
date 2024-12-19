@@ -14,7 +14,7 @@
 - 💞️ I’m looking to collaborate on ...
 -     Game Devolopment
 - 📫 How to reach me
--      Gmail: osman.krty.lc@gmail.com
+-      Gmail: karatay_osman@hacettepe.edu.tr
 -      Lınked: https://www.linkedin.com/in/osman-karatay-1a7562113/
 -      
 
